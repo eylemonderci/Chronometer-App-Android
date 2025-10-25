@@ -59,7 +59,7 @@ konularında pratik yapılmıştır.
 
 ## 🖼️ Ekran Görüntüsü
 
-> 
+> https://github.com/eylemonderci/Chronometer-App-Android/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-25%20211019.png
 
 
 ---
